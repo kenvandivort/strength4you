@@ -12,11 +12,11 @@
    Global styles
    ========================================================================== */
 h1, h2, h3, h4, h5, h6, p, .btn, .navbar-nav a, .form-control, .list-inline, small, #pricing {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Papyrus', sans-serif;
 }
 
 p, .lead {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Menlo', sans-serif;
 }
 
 h1 {
@@ -282,7 +282,7 @@ a:hover, a:focus {
    Main styles
    ========================================================================== */
 header {
-  background: url(../img/Onzenscreenshot.png) no-repeat center center;
+  background: url(../img/Onzen.jpg) no-repeat center center;
   width: 100%;
   padding: 20px 10px 60px 10px;
   height: 100vh;
@@ -370,7 +370,7 @@ header {
 
 
 #be-the-first {
-  background: /*url(../img/be-the-first-bg.jpg) #231f20*/ #73CBCD no-repeat center center fixed;
+  background: /*url(../img/be-the-first-bg.jpg) #231f20*/ #97BB51 no-repeat center center fixed;
   min-height: 300px;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -384,18 +384,18 @@ hr.line {
 }
 
 .purple {
-	border-color: #6d3f96;
-	color: #6d3f96;
+	border-color: #97BB51;
+	color: #97BB51;
 }
 
 .blue {
-	border-color: #70cbce;
-	color: #70cbce
+	border-color: #6CC2CC;
+	color: #6CC2CC;
 }
 
 .yellow {
-	border-color: #fdc05d;
-	color: #fdc05d;
+	border-color: #CDC15D;
+	color: #CDC15D;
 }
 
 .iphone {
@@ -418,13 +418,13 @@ hr.line {
 }
 
 .fa-envelope-o {
-  color: #4ec3cd;
+  color: #6CC2CC;
   font-size: 22px;
   display: block;
   padding-top: 15px;
   width: 60px;
   height: 60px;
-  border: 2px solid #4ec3cd;
+  border: 2px solid #6CC2CC;
   -moz-border-radius: 30px;
   -o-border-radius: 30px;
   -webkit-border-radius: 30px;
@@ -458,7 +458,7 @@ footer {
 
 
 #pricing {
-  background: #70cbce;
+  background:  #6CC2CC;
 }
 
 .pricing-container {
@@ -556,7 +556,7 @@ footer {
 }
 
 .features.last a {
-	color: #70cbce;
+	color: #6CC2CC;
 	font-size: 14px;
 	letter-spacing: 1px;
 }
