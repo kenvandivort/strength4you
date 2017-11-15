@@ -273,7 +273,8 @@ a:hover, a:focus {
 }
 
 .logo img {
-	margin-top: 6px;
+	/*margin-top: 6px;*/
+  border: solid 3px #CDC063;
 }
 
 
