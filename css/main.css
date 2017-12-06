@@ -23,7 +23,7 @@ h1 {
   font-size: 60px;
   line-height: 55px;
   letter-spacing: -1px;
-  color: #ffffff;
+  color: #ffff4d;
   font-weight: 700;
 }
 
@@ -31,7 +31,7 @@ h2 {
   font-size: 40px;
   line-height: 40px;
   etter-spacing: -0.5px;
-  color: #ffffff;
+  color: #FFFFFF;
   font-weight: 700;
 }
 
@@ -46,7 +46,7 @@ h3 {
 .lead {
   font-size: 21px;
   line-height: 26px;
-  color: #ffffff;
+  color: #FFFFFF;
   font-weight: 400;
 }
 
@@ -141,8 +141,8 @@ a:hover, a:focus {
 }
 
 .btn-secondary {
-  background-color: #ffffff;
-  color: #231f20;
+  background-color: #70cbce;
+  color: #FFFFFF;
 }
 
 .btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active, .btn-secondary.active {
