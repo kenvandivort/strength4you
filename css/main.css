@@ -20,7 +20,7 @@ p, .lead {
 }
 
 h1 {
-  font-size: 70px;
+  font-size: 60px;
   line-height: 55px;
   letter-spacing: -1px;
   color: #ffff4d;
@@ -234,7 +234,7 @@ a:hover, a:focus {
 
 .navbar {
     border: 0px solid rgba(0, 0, 0, 0);
-    background: #70cbce;
+    background: #6CC2CC;
     margin: auto;
     min-height: 60px;
     padding-top: 8px;
@@ -265,7 +265,7 @@ a:hover, a:focus {
 }
 
 .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
-    border-color: #4ec3cd;
+    border-color: #6CC2CC;
 }
 
 .navbar-inverse .navbar-toggle {
