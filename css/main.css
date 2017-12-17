@@ -20,7 +20,7 @@ p, .lead {
 }
 
 h1 {
-  font-size: 60px;
+  font-size: 65px;
   line-height: 55px;
   letter-spacing: -1px;
   color: #ffff4d;
@@ -28,7 +28,7 @@ h1 {
 }
 
 h2 {
-  font-size: 40px;
+  font-size: 45px;
   line-height: 40px;
   etter-spacing: -0.5px;
   color: #FFFFFF;
@@ -36,7 +36,7 @@ h2 {
 }
 
 h3 {
-  font-size: 24px;
+  font-size: 30px;
   line-height: 30px;
   letter-spacing: 0px;
   color: #231f20;
@@ -44,14 +44,14 @@ h3 {
 }
 
 .lead {
-  font-size: 21px;
+  font-size: 23px;
   line-height: 26px;
   color: #FFFFFF;
   font-weight: 400;
 }
 
 p {
-  font-size: 18px;
+  font-size: 20px;
   line-height: 22px;
   color: #929496;
   font-weight: 400;
@@ -534,7 +534,7 @@ footer {
   padding-top: 20px;
   padding-bottom: 20px;
   font-weight: 300;
-  font-size: 13px;
+  font-size: 16px;
   color: #929496;
   background: #ffffff;
 }
